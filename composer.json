@@ -1,0 +1,23 @@
+{
+    "name": "oizumi-junho/conn-php",
+    "description": "Criado para facilitar o Crud com banco MYSQL",
+    "type": "library",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [{
+        "name": "Oizumi Junho",
+        "email": "oizumijunho@gmail.com",
+        "role": "Developer"
+    }],
+    "autoload": {
+        "psr-4": {
+            "OizumiJunho\\Conn\\": "src/Conn"
+        },
+        "files": [
+            "src/Conn/Config.php"
+        ]
+    },
+    "require": {
+        "php": ">=7.0"
+    }
+}
