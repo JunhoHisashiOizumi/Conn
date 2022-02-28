@@ -9,7 +9,7 @@ PHP: Versão 7 ou acima | oizumi-junho\conn-php: Qualquer versão
 ```
 
     "require": {
-        "oizumi-junho\conn-php": "*.*.*",
+        "oizumi-junho\conn-php": "dev-master",
         "php": ">=7.0"
     }
 
